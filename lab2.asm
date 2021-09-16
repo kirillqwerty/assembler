@@ -38,8 +38,8 @@ Output:
 
     mov ax, res
     xor dx, dx
-	xor cx,cx
-	mov	bx,10
+    xor cx,cx
+    mov	bx,10
 
     isDiv:		
         xor	dx,dx
